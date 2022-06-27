@@ -24,7 +24,7 @@ if(password.length >= 10 && /\d/.test(password) && /[a-zA-Z]/.test(password)) {
 
 // function containsSpecialChars(password) {
 //     const specialChars = /[`!@#$%^&*()_+\-=\[\]{};':"\\|,.<>\/?~]/ 
-//     return specialChars.test(password)
+//     return specialChars.test(password).
 // }
 // Does password start with a capital letter ? 
 

@@ -30,7 +30,7 @@ if(faveNum === 13){
 }
 //////////////////PROBLEM 5////////////////////
 /*
-  Write a for loop that prints out your faveNum 5 times.
+  Write a for loop that prints out your faveNum 5 times. .
 */
 
 //CODE HERE

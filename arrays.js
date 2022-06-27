@@ -35,7 +35,7 @@ console.log(middleNums)
   number in the array is GREATER than 100. 
   If it is, push 'big' as a string to the answers array. 
   If the number is LESS than or EQUAL to 100, push 'small' as a string 
-  to the answers array. 
+  to the answers array. .
 */
 
 const bigOrSmallArray = [1, 99, 42, 69, 102, -10, 159, 352]
